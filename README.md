@@ -37,16 +37,10 @@ Me chamo Kioma Fernandes, sou um zotecnista que virou um desenvolvedor full stac
                 
 </div>
 
-## Contatos
+## Contatos 
 
-<div style="display:inline"> 
-<a heref="![Gmail]"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
 <a heref="![LinkedIn]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-
-<a heref="![Outlook]"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> </a>
-
-</div>
 
 
 
