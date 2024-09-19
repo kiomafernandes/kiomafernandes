@@ -42,7 +42,7 @@ Me chamo Kioma Fernandes, sou um zotecnista que virou um desenvolvedor full stac
 
 <a heref="![LinkedIn]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-<![LinkedIn] (https://(https://www.linkedin.com/in/kioma-fernandes-0bb152aa/)
+![LinkedIn] (https://www.linkedin.com/in/kioma-fernandes-0bb152aa/)
 
 [GitHub Pages](https://pages.github.com/).
 
