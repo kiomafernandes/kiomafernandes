@@ -29,19 +29,13 @@ Olá! Meu nome é Kioma Fernandes, sou analista e desenvolvedor de sistemas e so
    
   <img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
                 
-                 
-          
-          
-          
-          
-          
-          
-
 </div>
-<div> 
+
+
+<div style="display:inline"> 
 <a heref="![Gmail]"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
-<a heref="![LinkedIn]><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a heref="![LinkedIn]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 </div>
 
