@@ -28,6 +28,12 @@ Olá! Meu nome é Kioma Fernandes, sou analista e desenvolvedor de sistemas e so
    <img width=50 heigth=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
    
   <img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
+  <img width=50 heigth=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  
+  <img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+          
+          
                 
 </div>
 
@@ -37,6 +43,8 @@ Olá! Meu nome é Kioma Fernandes, sou analista e desenvolvedor de sistemas e so
 <a heref="![Gmail]"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
 <a heref="![LinkedIn]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
 </div>
 
