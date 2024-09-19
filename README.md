@@ -1,7 +1,7 @@
 # Hallo World! Eu sou o Kioma!👋🤓
 
 ## Sobre mim
-Olá! Meu nome é Kioma Fernandes, tenho 34 anos e sou apaixonado por desenvolvimento web e mobile. Sou um desenvolvedor full stack.
+Olá! Meu nome é Kioma Fernandes, sou analista e desenvolvedor de sistemas e sou apaixonado por desenvolvimento web e mobile. Sou um desenvolvedor full stack.
 
 
 
