@@ -3,6 +3,7 @@
 ## Sobre mim
 Olá! Meu nome é Kioma Fernandes, sou analista e desenvolvedor de sistemas e sou apaixonado por desenvolvimento web e mobile. Sou um desenvolvedor full stack.
 
+# Hard Skils
 <div>
 
   <img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
@@ -21,7 +22,14 @@ Olá! Meu nome é Kioma Fernandes, sou analista e desenvolvedor de sistemas e so
   <img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
   <img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-          
+
+  <img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+   
+   <img width=50 heigth=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+   
+  <img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+                
+                 
           
           
           
