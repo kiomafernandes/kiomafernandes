@@ -1,7 +1,7 @@
 # Hallo World! 👋🤓
 
 ## Sobre mim
-Olá! Meu nome é Kioma Fernandes, sou analista e desenvolvedor de sistemas e sou apaixonado por desenvolvimento web e mobile. Sou um desenvolvedor full stack.
+me chamo Kioma Fernandes, sou um zotecnista que virou analista e desenvolvedor de sistemas e sou apaixonado por desenvolvimento web e mobile. Sou um desenvolvedor full stack.
 
 ## Tecnologias e ferramentas
 <div>
