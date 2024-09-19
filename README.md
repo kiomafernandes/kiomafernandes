@@ -1,4 +1,4 @@
-# Hallo World! Eu sou o Kioma!👋🤓
+# Hallo World! 👋🤓
 
 ## Sobre mim
 Olá! Meu nome é Kioma Fernandes, sou analista e desenvolvedor de sistemas e sou apaixonado por desenvolvimento web e mobile. Sou um desenvolvedor full stack.
@@ -44,7 +44,7 @@ Olá! Meu nome é Kioma Fernandes, sou analista e desenvolvedor de sistemas e so
 
 <a heref="![LinkedIn]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+<a heref="![Outlook]"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> </a>
 
 </div>
 
