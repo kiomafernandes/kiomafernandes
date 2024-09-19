@@ -4,8 +4,6 @@
 Olá! Meu nome é Kioma Fernandes, sou analista e desenvolvedor de sistemas e sou apaixonado por desenvolvimento web e mobile. Sou um desenvolvedor full stack.
 
 
-https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg
-
 
 
 <!--
