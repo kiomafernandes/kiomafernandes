@@ -1,7 +1,7 @@
 # Hallo World! 👋🤓
 
 ## Sobre mim
-Me chamo Kioma Fernandes, sou um zotecnista que virou um desenvolvedor full stack e sou apaixonado por desenvolvimento web e mobile. 
+Me chamo Kioma Fernandes, sou um desenvolvedor fullstack. Meu foco é desenvolvimento web, mas tenho também interesse em desenvolvimento mobile. Possuo graduação em Análise e desenvolvimento de sistemas.
 
 ## Tecnologias e ferramentas
 <div>
