@@ -13,6 +13,8 @@ Me chamo Kioma Fernandes, sou um desenvolvedor fullstack. Meu foco é desenvolvi
   <img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   
    <img width=50 heigth=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+   <img width=50 heigth=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/next/nextt-original.svg" />
    
   <img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   
