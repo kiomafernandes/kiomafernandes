@@ -37,12 +37,11 @@ Me chamo Kioma Fernandes, sou um desenvolvedor fullstack. Meu foco é desenvolvi
           
                 
 </div>
-
+<!--
 ## Contato
 
-
 <a heref="![LinkedIn]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> https://www.linkedin.com/in/kioma-fernandes-0bb152aa/
-
+-->
 
 
 
