@@ -4,7 +4,7 @@
 Me chamo Kioma Fernandes, sou um desenvolvedor fullstack. Meu foco é desenvolvimento web, mas tenho também interesse em desenvolvimento mobile.
 
 ## Tecnologias e ferramentas
-<div padding-left=15 padding-right=15>
+<div align="center>
   <img width=100 heigth=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img width=100 heigth=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
   <img width=100 heigth=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
